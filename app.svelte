@@ -168,7 +168,7 @@
         <h2>Contact Me</h2>
         <p>Feel free to connect with me:</p>
         <a href="mailto:zeba.cs@global.org.in">Email</a> |
-        <a href="https://github.com/yourusername">GitHub</a> |
+        <a href="https://github.com/zebavishwakarma>GitHub</a> |
         <a href="https://www.linkedin.com/in/zeba-khan-980905176/">LinkedIn</a>
     </div>
 </div>
