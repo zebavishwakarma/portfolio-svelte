@@ -137,7 +137,7 @@
 
     <div class="profile">
         <!-- You can replace "profile.jpg" with your own photo -->
-        <img src="zeba.jfif" alt="Profile Photo">
+        <img src="zeba.jpg" alt="Profile Photo">
     </div>
 
     <div class="about-me">
